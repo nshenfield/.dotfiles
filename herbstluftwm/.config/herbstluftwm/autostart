@@ -8,8 +8,6 @@ hc() {
 
 hc emit_hook reload
 
-#xsetroot -solid '#5A8E3A'
-#xsetroot -solid '#000000'
 
 
 # remove all existing keybindings
@@ -27,7 +25,6 @@ hc keybind $Mod-Shift-p spawn systemctl poweroff
 hc keybind $Mod-Shift-r spawn systemctl reboot
 hc keybind $Mod-Return spawn urxvt
 hc keybind $Mod-f spawn thunar
-# hc keybind $Mod-f spawn pcmanfm
 hc keybind $Mod-w spawn firefox
 hc keybind $Mod-t spawn transmission-gtk
 hc keybind $Mod-F2 spawn rofi -show run
