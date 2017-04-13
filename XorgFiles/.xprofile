@@ -1,0 +1,3 @@
+setxkbmap gb &
+xset s off -dpms &
+feh --bg-scale --randomize /home/nshenfield/Images/Wallpapers/* &

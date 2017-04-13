@@ -1,0 +1,43 @@
+#include "/home/nshenfield/.config/herbstluftwm/termcolors"
+
+URxvt*loginShell: true
+URxvt*geometry:                    80x25
+URxvt*borderLess:                false
+URxvt.scrollBar: false
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+!URxvt.font: xft:Inconsolata:size=12:hintstyle=hintfull
+!URxvt.boldFont: xft:Inconsolata:size=12:hintstyle=hintfull
+
+URxvt.font: xft:Fantasque Sans Mono:size=12:hintstyle=hintfull
+URxvt.boldFont: xft:Fantasque Sans Mono:size=12:hintstyle=hintfull
+
+URxvt.letterSpace: -1
+
+urxvt*background: #2b303b
+
+
+!rofi.background: #1d1f21
+!rofi.foreground: #c5c8c6
+!rofi.highlightbg: #00CCFF
+!rofi.highlightfg: #ffffff
+!rofi.bordercolor: #1d1f21
+rofi.padding: 1
+rofi.lines: 10
+rofi.borderwidth: 1
+rofi.opacity: 70
+rofi.font: Inconsolata 14
+rofi.fixed_num_lines: 1
+rofi.hmode: false
+rofi.terminal: st
+rofi.ssh-set-title: false
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #1d1f21, #1d1f21, #1d1f21
+rofi.color-normal: #1d1f21, #c5c8c6, argb:0000000, #00ccff, #ffffff
+rofi.color-active: argb:0000000, argb:0000000, argb:0000000, argb:0000000, argb:0000000
+rofi.color-urgent: argb:0000000, argb:0000000, argb:0000000, argb:0000000, argb:0000000
