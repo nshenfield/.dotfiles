@@ -1,7 +1,7 @@
 ! Base16 Ocean for mod8
 ! Scheme: Chris Kempson (http://chriskempson.com)
 
-! Change the following palette according to the colorscheme Check56
+! Change the following palette according to the colorscheme
 #define base00 #2b303b
 #define base01 #343d46
 #define base02 #4f5b66
