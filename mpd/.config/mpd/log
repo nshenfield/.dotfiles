@@ -418,3 +418,6 @@ Apr 13 20:22 : exception: OutputThread could not get realtime scheduling, contin
 Apr 13 20:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Apr 13 20:31 : player: played "A-C/Caves/Betterment/Caves - Betterment - 04 -3 Koala.flac"
 Apr 13 20:37 : player: played "G-I/Iron Chic/Not Like This/Iron Chic - Not Like This - 01 Cutesy Monster Man.flac"
+Apr 13 20:40 : player: played "G-I/Iron Chic/Not Like This/Iron Chic - Not Like This - 02 Time Keeps On Slipping Into The (Cosmic) Future.flac"
+Apr 13 20:42 : player: played "G-I/Iron Chic/Not Like This/Iron Chic - Not Like This - 03 Timecop.flac"
+Apr 13 20:47 : player: played "G-I/Iron Chic/Not Like This/Iron Chic - Not Like This - 04 I Always Never Said That.flac"
